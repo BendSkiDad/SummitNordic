@@ -13,6 +13,9 @@ header img {
     /* width: 50%; */
 }
 
+li {
+    padding: 5px;
+}
 footer {
     font-size: small;
 }

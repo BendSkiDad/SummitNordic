@@ -4,3 +4,4 @@ deployment:
     - export DEPLOYPATH=/home/y79k53kuxblh/public_html
     - /bin/cp index.html $DEPLOYPATH
     - /bin/cp index.css $DEPLOYPATH
+    - /bin/cp logo-Summit-High.png $DEPLOYPATH

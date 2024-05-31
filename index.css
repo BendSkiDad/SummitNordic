@@ -1,10 +1,13 @@
 body {
-    max-width: 500px;
+    max-width: 960px;
     margin: auto;
+    padding: 5px;
 }
 
 header h1 {
     text-align: center;
+    color: #145A32;
+    font-size: 40pt;
 }
 
 header img {

@@ -8,3 +8,4 @@ deployment:
     - /bin/cp 20180113_104100.jpg $DEPLOYPATH
     - /bin/cp 25_26_NL_DRAFT_schedule.pdf $DEPLOYPATH
     - /bin/cp Essential_Info_ 25_26.pdf $DEPLOYPATH
+    - /bin/cp Summit_Nordic_Registration_25_26.pdf $DEPLOYPATH
